@@ -8,5 +8,5 @@ if financiamento < conversao:
 else:
     print("financiamento negado.")
     
-    print('obrigado por nos consultar')
+print('obrigado por nos consultar')
     
